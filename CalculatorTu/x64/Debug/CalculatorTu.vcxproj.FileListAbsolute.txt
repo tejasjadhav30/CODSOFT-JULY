@@ -1,0 +1,4 @@
+C:\Users\rutvi\source\repos\CalculatorTu\CalculatorTu\x64\Debug\CalculatorTu.vcxproj.AssemblyReference.cache
+C:\Users\rutvi\source\repos\CalculatorTu\CalculatorTu\x64\Debug\CalculatorTu.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\rutvi\source\repos\CalculatorTu\CalculatorTu\x64\Debug\CalculatorTu.MyForm.resources
+C:\Users\rutvi\source\repos\CalculatorTu\CalculatorTu\x64\Debug\CalculatorTu.vcxproj.GenerateResource.cache
